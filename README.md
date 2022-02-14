@@ -1,4 +1,4 @@
-# 百度网盘AI大赛——图像处理挑战赛：手写文字擦除第10名方案
+# 百度网盘AI大赛——图像处理挑战赛：手写文字擦除第5名方案
 
 This repository is the implementation of PaddlePaddle-based handwriting removal model.
 
